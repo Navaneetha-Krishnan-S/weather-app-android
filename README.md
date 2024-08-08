@@ -9,9 +9,9 @@ Welcome to the Weather App! This Android application provides real-time weather 
 - **Weather Descriptions** ☁️
 
 ## Screenshots 📸
-![Weather App Screenshot1](screenshot1.jpg)
-![Weather App Screenshot2](screenshot2.jpg) 
 
-## Installation 🛠️
+<img src="screenshot1.jpg" alt="Weather App Screenshot1" width="400" height="300" />
+<img src="screenshot2.jpg" alt="Weather App Screenshot2" width="400" height="300" />
+
 
 
