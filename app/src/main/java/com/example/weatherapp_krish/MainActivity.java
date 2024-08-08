@@ -91,7 +91,7 @@ public class MainActivity extends AppCompatActivity {
                 String city = cityName.getText().toString();
                 try {
                     if (!city.isEmpty()) {
-                        url = "https://api.openweathermap.org/data/2.5/weather?q=" + city + "&appid=4c49fc0a77bf15b96d72f890c2229249";
+                        url = "https://api.openweathermap.org/data/2.5/weather?q=" + city + "&appid=secret key";
                         getWeather task = new getWeather();
                         temp[0] = task.execute(url).get();
                     } else {
