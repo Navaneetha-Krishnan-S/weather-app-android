@@ -12,8 +12,8 @@ Welcome to the Weather App! This Android application provides real-time weather 
 
 <div style="display: flex; justify-content: space-between;">
 
-<img src="screenshot1.jpg" alt="Weather App Screenshot1" width="400" height="700" />
-<img src="screenshot2.jpg" alt="Weather App Screenshot2" width="400" height="700" />
+<img src="screenshot1.jpg" alt="Weather App Screenshot1" width="400" height="650" />
+<img src="screenshot2.jpg" alt="Weather App Screenshot2" width="400" height="650" />
 
 </div>
 
