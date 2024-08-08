@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Weather App - KRiSH</string>
+    <string name="weather_app">Weather App</string>
+    <string name="city_name">City name</string>
+    <string name="krish">KRiSH</string>
+    <string name="navaneetha_krishnan">Navaneetha Krishnan</string>
+    <string name="weather">Weather</string>
+    <string name="search">Search</string>
+</resources>
